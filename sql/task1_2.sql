@@ -1,3 +1,6 @@
+-- avg logins per user = 5.02
+-- avg payments per user = 0.43
+
 with
 installs as (
 	select
